@@ -1,3 +1,13 @@
+Objective: Gain insights into customer churn patterns & develop strategies to reduce attrition. 
+
+Churn Analysis plays a crucial role in the telecom industry, where retaining hard-earned customers is paramount. By examining service subscriptions, account info, and demographics, we identified key factors influencing customer churn.
+
+Using advanced data analytics techniques and Power BI visualization, we proactively identified at-risk customers, empowering the retention department to take preventive actions and win them back.
+
+This analysis addresses the limitations of previous Excel-based efforts, providing clear and actionable insights for management. By making data-driven decisions, the company can implement effective retention strategies, improving customer satisfaction and overall business performance.
+
+Thrilled to apply this knowledge gained during the internship to drive impactful data-driven decisions!
+
 Insights:
 
 Based on the data visualization, several key insights can be derived:
